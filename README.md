@@ -1,4 +1,3 @@
-# Milo20i
 
 
 
@@ -7,7 +6,8 @@
 
 
 
-# MY STATS
+
+# My Stats
 
 
 [![](https://raw.githubusercontent.com/milo20i/milo20i/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
