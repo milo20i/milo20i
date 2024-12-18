@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/milo20i/milo20i/master/profile-summary-card-output/calm/4-productive-time.svg)
-```
-
-    
